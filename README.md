@@ -30,3 +30,7 @@ A web-based Student Attendance Management System built using Python, Flask, SQLi
 ```bash
 cd /storage/emulated/0/app.py
 python app.py
+
+## 📸 Screenshots
+
+Project screenshots are available in this repository.
